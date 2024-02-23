@@ -1,6 +1,6 @@
 ### Felipe Santos 👋
 
-- 🔭 Estudante de tecnologia ...
+- 🔭 Desenvolvedor Backend ...
 
 <!-- <div align="center">
  <a href="https://github.com/felipesantos22">
