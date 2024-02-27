@@ -1,6 +1,6 @@
 ### Felipe Santos 👋
 
-- 🔭 Desenvolvedor Backend ...
+- 🔭 Desenvolvedor Backend C# e PHP
 
 <!-- <div align="center">
  <a href="https://github.com/felipesantos22">
