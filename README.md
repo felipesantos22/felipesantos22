@@ -1,6 +1,6 @@
 ### Felipe Santos 👋
 
-- 🔭 Desenvolvedor Backend C# e PHP
+- 🔭 Desenvolvedor Backend .Net e Laravel
 
 <!-- <div align="center">
  <a href="https://github.com/felipesantos22">
@@ -10,9 +10,11 @@
 
 <div style="display: inline_block"><br>  
   <!--<img align="center" alt="felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->   
-  <img align="center" alt="felipe-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="felipe-CSS" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-  <img align="center" alt="felipe-CSS" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" >  
+  <img align="center" alt="felipe-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="felipe-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+  <img align="center" alt="felipe-CSS" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" >  
+  <img align="center" alt="felipe-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">  
+  <img align="center" alt="felipe-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"> 
   <!--  <img align="center" alt="felipe-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">  
   <img align="center" alt="felipe-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="felipe-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg">   
@@ -21,6 +23,7 @@
   <img align="center" alt="felipe-CSS" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" >  
   <img align="center" alt="felipe-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="felipe-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">  
+  <img align="center" alt="felipe-CSS" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
   <img align="center" alt="felipe-CSS" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">-->
 
 </div>   
