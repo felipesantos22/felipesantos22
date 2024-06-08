@@ -1,6 +1,6 @@
 ### Felipe Santos 👋
 
-- 🔭 Desenvolvedor Backend .Net, Laravel e Angular
+- 🔭 Desenvolvedor Backend .Net, Laravel, Angular e JQuery
 
 <!-- <div align="center">
  <a href="https://github.com/felipesantos22">
