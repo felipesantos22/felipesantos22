@@ -1,6 +1,6 @@
 ### Felipe Santos 👋
 
-- 🔭 Desenvolvedor Web .Net, Laravel e Angular
+- 🔭 Desenvolvedor Web .Net, Laravel, Angular e SqlServer
 
 <!-- <div align="center">
  <a href="https://github.com/felipesantos22">
