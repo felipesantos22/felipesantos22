@@ -1,6 +1,6 @@
 ### Felipe Santos 👋
 
-- 🔭 Desenvolvedor Backend .Net, Laravel, Angular e JQuery
+- 🔭 Desenvolvedor Web .Net, Laravel e Angular
 
 <!-- <div align="center">
  <a href="https://github.com/felipesantos22">
@@ -9,12 +9,11 @@
 </div> -->
 
 <div style="display: inline_block"><br>   
-  <img align="center" alt="felipe-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="felipe-CSS" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" > 
-  <img align="center" alt="felipe-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">     
-  <!--<img align="center" alt="felipe-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">-->
-  <!--<img align="center" alt="felipe-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">-->  
-  <img align="center" alt="felipe-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg">
+  <img align="center" alt="felipe-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">   
+  <img align="center" alt="felipe-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="felipe-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="felipe-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">  
+  
 
 </div>   
 <div>  
