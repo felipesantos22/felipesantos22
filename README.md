@@ -1,6 +1,6 @@
 ### Felipe Santos 👋
 
-- 🔭 Desenvolvedor .Net e IOS
+- 🔭 Desenvolvedor .Net Android e iOS
 
 <!-- <div align="center">
  <a href="https://github.com/felipesantos22">
