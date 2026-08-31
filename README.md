@@ -1,6 +1,4 @@
 ### Felipe Santos 👋
 
-- 🔭 Desenvolvedor iOS, C# e Python
-
-</div>
+- 🔭 Desenvolvedor iOS e C# 
 
